@@ -11,6 +11,8 @@ All default configurations are placed in the
 You should use the [`util` module](lua/formatter/util)
 which has various functions that help with creating default configurations.
 
+test 123
+
 The [default configurations per formatter](lua/formatter/defaults) return
 functions which create a formatter configuration. For example, the `prettier`
 default configuration function takes in a parser argument:
